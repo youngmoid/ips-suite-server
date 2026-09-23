@@ -1,10 +1,10 @@
-# IPS Suite Server 📡
+# IPS Suite Server 
 
 ### The official local companion app for the [IPS Suite Roblox Plugin](https://create.roblox.com/store/asset/128709667146548/IPS).
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue) ![License](https://img.shields.io/badge/License-Open%20Source-green)
 
-## 👋 What is this?
+##  What is this?
 **IPS Suite** connects your computer files to Roblox Studio. Since Roblox cannot directly access your hard drive for security reasons, this lightweight server acts as a **safe bridge**.
 
 It allows you to:
@@ -14,7 +14,7 @@ It allows you to:
 
 ---
 
-## 📥 How to Download & Run
+## How to Download & Run
 
 You have two options depending on your technical skills:
 
